@@ -18,6 +18,6 @@ http://www.mediafire.com/download/q4kestezew5jp9w/MobCreator.jar
 
 Patch Notes:
 
-
+<1.1.2> Updated the elements table
 
 <1.1.1> Fixed the problem with the Elements Table not showing up. 
