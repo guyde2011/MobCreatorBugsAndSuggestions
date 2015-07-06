@@ -6,6 +6,8 @@ To report or suggest things for this mob creator go to issues:
 
 * For reporting a bug use the BUG label
 
+* For any invalid generated YML use the INVALID YML label
+
 * For anything else use the OTHER label
 
 Current version: 1.0.0 Beta
