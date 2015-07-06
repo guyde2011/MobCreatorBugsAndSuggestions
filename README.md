@@ -10,7 +10,7 @@ To report or suggest things for this mob creator go to issues:
 
 * For anything else use the OTHER label
 
-Current version: 1.1.1 (Not Beta, But Still in Development)
+Current version: 1.1.2 (Not Beta, But Still in Development)
 
 Download of the latest version:
 http://www.mediafire.com/download/q4kestezew5jp9w/MobCreator.jar
