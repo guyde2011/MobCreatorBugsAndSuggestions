@@ -1,4 +1,4 @@
-# Mob Creator Bugs And Suggesions
+# Mob Creator Bugs And Suggestions
 
 To report or suggest things for this mob creator go to issues:
 
