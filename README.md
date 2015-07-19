@@ -8,7 +8,10 @@ To report or suggest things for this mob creator go to issues:
 
 * For any invalid generated YML use the INVALID YML label
 
+* For any GitHub related issues use the GITHUB ISSUE label
+
 * For anything else use the OTHER label
+
 
 Current version: 1.2.0 (Not Beta, But Still in Development, please consider to update to this version, for alot of bugfixes and cosmetic changes, and for the remote GitHub feature)
 
