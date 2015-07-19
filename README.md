@@ -10,13 +10,15 @@ To report or suggest things for this mob creator go to issues:
 
 * For anything else use the OTHER label
 
-Current version: 1.1.6 (Not Beta, But Still in Development)
+Current version: 1.2.0 (Not Beta, But Still in Development, please consider to update to this version, for alot of bugfixes and cosmetic changes, and for the remote GitHub feature)
 
 Download of the latest version:
 http://www.mediafire.com/download/q4kestezew5jp9w/MobCreator.jar
 
 
 Patch Notes:
+
+<1.2.0> Fixed lots of bugs, added a new GitHub remote upload option, changed the font and the spacing and much more
 
 <1.1.6> Fixed a minor damage issue
 
